@@ -1,4 +1,4 @@
-# Standard & Average Deviation Calculator
+# Monthly Rainfall Table
 A program that displays a formatted table showing the rainfall for each of the previous 12 months<br />
 as well as how much above or below average the rainfall was for each month.
 
