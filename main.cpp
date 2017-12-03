@@ -71,13 +71,13 @@ void inputRainFallFigures(double avgRFF[], double actlRFF[], int months[], int a
 		cin>>next;
 	}
 
-	cout<<"\nWhat is the current month?: ";
+	cout<<"\nWhat is the current month? ";
 	cin>>input;
 
 	int index2 = 0;
 	double next2;
 
-	cout<<"\n\nEnter actual monthly rainfall figures for each month (enter -1 when finished):\n";
+	cout<<"\nEnter actual monthly rainfall figures for each month (enter -1 when finished):\n";
 	cin>>next2;
 
 	while (next2 >= 0 && index2 < arraySize)
